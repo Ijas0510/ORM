@@ -54,10 +54,9 @@ class CarAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
- C:\Users\Dhivakar\OneDrive\Desktop\ijas\ORM\Screenshot 2025-09-22 213508.png
 
+C:\Users\Dhivakar\OneDrive\Desktop\ijas\ORM\Screenshot 2025-09-22 213508.png
 
-Include the screenshot of your admin page.
 
 
 ## RESULT
