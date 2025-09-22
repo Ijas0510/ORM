@@ -54,8 +54,8 @@ class CarAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
+C:\Users\Dhivakar\OneDrive\Desktop\ijas\ORM\Screenshot 2025-09-22 213508-1.png
 
-C:\Users\Dhivakar\OneDrive\Desktop\ijas\ORM\Screenshot 2025-09-22 213508.png
 
 
 
